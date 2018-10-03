@@ -19,7 +19,7 @@ import sergio.clases.Fila;
 
 /**
  *
- * @author a023315568p
+ * @author Sergio Añón Sevilla
  */
 @WebServlet(name = "Control", urlPatterns = {"/table"})
 public class Control extends HttpServlet {
